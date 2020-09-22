@@ -1,0 +1,37 @@
+th
+{
+	border: 5px solid lightgray;
+	background: #8ABAD3FF;
+}
+.one
+{
+	text-align: center;
+	padding: 20px;
+	background: #FFDDE2FF;
+	
+}
+.two
+{
+	text-align: center;
+	background: #FAA094FF ;
+	padding: 20px
+}
+.three
+{
+	text-align: center;
+	background: #9ED9CCFF;
+	padding: 20px
+}
+.four
+{
+	text-align: center;
+	background: #008C76FF;
+
+	padding: 20px
+}
+.five
+{
+	text-align: center;
+	background: #9F6B99FF;
+	padding: 20px
+}
